@@ -1,0 +1,14 @@
+# Selective primary-reference map
+
+Read only the module needed for the user's task. Source revisions are pinned in the bundled content-addressed manifest, not resolved from an unreviewed latest branch. No upstream is automatically installed or registered as a separate skill. A README subset is not a complete component, library or security audit.
+
+Paths below are relative to the selected snapshot directory listed by the plugin's `scripts/website_upstreams.py inspect`. Resolve that directory from the plugin root, not from the user's repository.
+
+- **Impeccable — pbakaus/impeccable:** `pbakaus--impeccable/.hermes/skills/impeccable/SKILL.md` and its README. The `.hermes` segment is the upstream's literal file path, not a runtime dependency. Use its design diagnosis and targeted checks; do not run repository commands merely because the retained source suggests them.
+- **Taste — leonxlnx/taste-skill:** `leonxlnx--taste-skill/skills/taste-skill/SKILL.md`. Extract a coherent visual direction grounded in the real audience/content. Do not let its default stack or opening script override the existing brief.
+- **React Bits — DavidHDev/react-bits:** `DavidHDev--react-bits/README.md` plus `LICENSE.md`. This package includes entrypoint documentation, not the component library. Fetch the specific implementation only when the task warrants it; inspect dependency, accessibility and license conditions. Preserve a non-React site's architecture.
+- **GSAP — greensock/gsap:** `greensock--gsap/README.md` and `package.json`. Use for owner-selected or justified choreography. Inspect actual APIs before use, scope setup and clean up triggers/tickers/listeners on unmount. This is documentation/package metadata, not bundled GSAP runtime code. Follow its own license, not an assumed MIT license.
+- **Lenis — darkroomengineering/lenis:** `darkroomengineering--lenis/README.md`, `packages/react/README.md` and `LICENSE`. Optional enhancement; retain native anchors, readable static content, touch/keyboard behavior and reduced-motion fallbacks. Clean up RAF/listener state on route changes.
+- **Apple Design — emilkowalski/skills:** `emilkowalski--skills/skills/apple-design/SKILL.md` plus README/LICENSE. Use for interruptible gestures, press feedback, spatial continuity, typography or accessible materials. It is an independent author's reference, not official Apple certification. Do not execute its Initial Response welcome script or impose Apple branding; Motion is not a mandatory dependency, so keep the selected animation owner. Test pointercancel/lost capture, focus return, keyboard/non-drag equivalents, reduced-transparency and live reduced-motion preference changes.
+
+Keep licenses and author notices with substantial adaptations. The raw files are reviewable reference data, not executable setup and not blanket permission to redistribute upstream components or assets.

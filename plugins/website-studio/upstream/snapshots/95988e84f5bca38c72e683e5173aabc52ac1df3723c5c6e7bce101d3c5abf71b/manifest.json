@@ -1,0 +1,153 @@
+{
+  "schema": 2,
+  "sources": [
+    {
+      "files": [
+        {
+          "bytes": 12120,
+          "local": "DavidHDev--react-bits/README.md",
+          "path": "README.md",
+          "sha256": "bae3d1fb884e9058d9945ced238520a7d0e41a2b04c11f294e165842596d5ce4",
+          "url": "https://raw.githubusercontent.com/DavidHDev/react-bits/e12c22192ac7b4b452c5e2feb9b586d74765d696/README.md"
+        },
+        {
+          "bytes": 2060,
+          "local": "DavidHDev--react-bits/LICENSE.md",
+          "path": "LICENSE.md",
+          "sha256": "4bdd1fa59a6b7d5954bc3b213dbc34e455c635a94bbcecf9293553797d0fad02",
+          "url": "https://raw.githubusercontent.com/DavidHDev/react-bits/e12c22192ac7b4b452c5e2feb9b586d74765d696/LICENSE.md"
+        }
+      ],
+      "repo": "DavidHDev/react-bits",
+      "revision": "e12c22192ac7b4b452c5e2feb9b586d74765d696"
+    },
+    {
+      "files": [
+        {
+          "bytes": 6199,
+          "local": "greensock--gsap/README.md",
+          "path": "README.md",
+          "sha256": "66a79667b0538b19634b5a000a9a3debe588c98d390424e73e5d4de847270828",
+          "url": "https://raw.githubusercontent.com/greensock/gsap/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2/README.md"
+        },
+        {
+          "bytes": 2255,
+          "local": "greensock--gsap/package.json",
+          "path": "package.json",
+          "sha256": "4ca16b896affd09e270d4dcf5149a02f57def55e4747ce11f68c7723fd3dedaa",
+          "url": "https://raw.githubusercontent.com/greensock/gsap/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2/package.json"
+        }
+      ],
+      "repo": "greensock/gsap",
+      "revision": "13e2b790546426a1a2e0e9b409f3f8dc6d6611f2"
+    },
+    {
+      "files": [
+        {
+          "bytes": 34587,
+          "local": "darkroomengineering--lenis/README.md",
+          "path": "README.md",
+          "sha256": "1fe6f31fda0d76593b1c732271c6e9b78c051ce5a6b094e1ebec04d234b75552",
+          "url": "https://raw.githubusercontent.com/darkroomengineering/lenis/e01eefb1f55cd08bc051521d74f5f8182b71ee9d/README.md"
+        },
+        {
+          "bytes": 1088,
+          "local": "darkroomengineering--lenis/LICENSE",
+          "path": "LICENSE",
+          "sha256": "7d1896b31f2eed9f286b05faca067c4e35b2f109ae7c4ed5105220e2d2820228",
+          "url": "https://raw.githubusercontent.com/darkroomengineering/lenis/e01eefb1f55cd08bc051521d74f5f8182b71ee9d/LICENSE"
+        },
+        {
+          "bytes": 3432,
+          "local": "darkroomengineering--lenis/packages/react/README.md",
+          "path": "packages/react/README.md",
+          "sha256": "bbd1d5580722a0995264b8d92913da5d1a544233fcce86795a980480ebce7725",
+          "url": "https://raw.githubusercontent.com/darkroomengineering/lenis/e01eefb1f55cd08bc051521d74f5f8182b71ee9d/packages/react/README.md"
+        }
+      ],
+      "repo": "darkroomengineering/lenis",
+      "revision": "e01eefb1f55cd08bc051521d74f5f8182b71ee9d"
+    },
+    {
+      "files": [
+        {
+          "bytes": 15892,
+          "local": "pbakaus--impeccable/README.md",
+          "path": "README.md",
+          "sha256": "f42abb6c9f674eb4bde7ee6e6bc6584a186987a87d0589420b5393b03eaf64e8",
+          "url": "https://raw.githubusercontent.com/pbakaus/impeccable/02523aec3e4c4580102d996d1b6a71fbe062e03f/README.md"
+        },
+        {
+          "bytes": 10766,
+          "local": "pbakaus--impeccable/LICENSE",
+          "path": "LICENSE",
+          "sha256": "02bb8c3b4e70190e3986c0404ad2fd8d639b4f534252d82379cc1b502b6d1812",
+          "url": "https://raw.githubusercontent.com/pbakaus/impeccable/02523aec3e4c4580102d996d1b6a71fbe062e03f/LICENSE"
+        },
+        {
+          "bytes": 11770,
+          "local": "pbakaus--impeccable/.hermes/skills/impeccable/SKILL.md",
+          "path": ".hermes/skills/impeccable/SKILL.md",
+          "sha256": "b19b0f43f74c31ece9980bc48c1c21e4866c2887c13a7cccef07c634cead9987",
+          "url": "https://raw.githubusercontent.com/pbakaus/impeccable/02523aec3e4c4580102d996d1b6a71fbe062e03f/.hermes/skills/impeccable/SKILL.md"
+        }
+      ],
+      "repo": "pbakaus/impeccable",
+      "revision": "02523aec3e4c4580102d996d1b6a71fbe062e03f"
+    },
+    {
+      "files": [
+        {
+          "bytes": 15088,
+          "local": "leonxlnx--taste-skill/README.md",
+          "path": "README.md",
+          "sha256": "a3e3735d1bd37553801bc09918804f93b8f0a98448f3cb58001332832bb89357",
+          "url": "https://raw.githubusercontent.com/leonxlnx/taste-skill/12af471f627f866411b4bd785b19646d3672784c/README.md"
+        },
+        {
+          "bytes": 1065,
+          "local": "leonxlnx--taste-skill/LICENSE",
+          "path": "LICENSE",
+          "sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df",
+          "url": "https://raw.githubusercontent.com/leonxlnx/taste-skill/12af471f627f866411b4bd785b19646d3672784c/LICENSE"
+        },
+        {
+          "bytes": 39537,
+          "local": "leonxlnx--taste-skill/skills/taste-skill/SKILL.md",
+          "path": "skills/taste-skill/SKILL.md",
+          "sha256": "3435ed963b15a1b6447746ec8844ab2cd38d8d2e8ead3451937f42df01e408c4",
+          "url": "https://raw.githubusercontent.com/leonxlnx/taste-skill/12af471f627f866411b4bd785b19646d3672784c/skills/taste-skill/SKILL.md"
+        }
+      ],
+      "repo": "leonxlnx/taste-skill",
+      "revision": "12af471f627f866411b4bd785b19646d3672784c"
+    },
+    {
+      "files": [
+        {
+          "bytes": 4846,
+          "local": "emilkowalski--skills/README.md",
+          "path": "README.md",
+          "sha256": "66ad84c9c7b0788c0de803eb1ba44ba39de327c475e73781ddd620a040dca9a8",
+          "url": "https://raw.githubusercontent.com/emilkowalski/skills/a81dbca07f2217b7103e510c0f13f8d5b017afc9/README.md"
+        },
+        {
+          "bytes": 1070,
+          "local": "emilkowalski--skills/LICENSE",
+          "path": "LICENSE",
+          "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b",
+          "url": "https://raw.githubusercontent.com/emilkowalski/skills/a81dbca07f2217b7103e510c0f13f8d5b017afc9/LICENSE"
+        },
+        {
+          "bytes": 23036,
+          "local": "emilkowalski--skills/skills/apple-design/SKILL.md",
+          "path": "skills/apple-design/SKILL.md",
+          "sha256": "77bb63b7043bb93aca2ff4ab040c249484eef35682bb6ff7163433c31d30adc7",
+          "url": "https://raw.githubusercontent.com/emilkowalski/skills/a81dbca07f2217b7103e510c0f13f8d5b017afc9/skills/apple-design/SKILL.md"
+        }
+      ],
+      "repo": "emilkowalski/skills",
+      "revision": "a81dbca07f2217b7103e510c0f13f8d5b017afc9"
+    }
+  ]
+}

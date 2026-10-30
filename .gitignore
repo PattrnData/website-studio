@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.website-studio/
+dist/
+node_modules/
+.env
+.env.*
+graphify-out/
+.graphify-cache/

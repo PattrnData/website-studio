@@ -1,0 +1,7 @@
+{
+  "name": "website-studio",
+  "version": "1.0.0",
+  "description": "Create, analyse, refine and redesign websites with selective pinned design references and evidence-led verification.",
+  "author": {"name": "Pattrn Data"},
+  "skills": "./skills/"
+}

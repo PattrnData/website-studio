@@ -1,0 +1,47 @@
+{
+  "package": "website-studio",
+  "version": "1.0.0",
+  "publisher": "PattrnData",
+  "source_coordinator_version": "1.1.0",
+  "upstream_snapshot": "95988e84f5bca38c72e683e5173aabc52ac1df3723c5c6e7bce101d3c5abf71b",
+  "source_count": 6,
+  "source_file_count": 16,
+  "source_inputs": [
+    {
+      "path": "scripts/website_upstreams.py",
+      "sha256": "ab26d9f8343f109d1fb44e63e776880f06be04167d76a1b47d11ba8f4c8d16bb"
+    },
+    {
+      "path": "skill/website-studio/SKILL.md",
+      "sha256": "9f28a6989074d28b99b549e18951c44238e982de842a68d2847250cb8e90e890"
+    },
+    {
+      "path": "skill/website-studio/references/integrations.md",
+      "sha256": "305da9960379f95d98f65dac58d4cc828449d6aae960f5a9312e3bde2dbbebe8"
+    },
+    {
+      "path": "skill/website-studio/references/maintenance.md",
+      "sha256": "a7f78570eefa94c5a1126aa33a452b541293f3be2b50f83e0f9b78bc2b638c76"
+    },
+    {
+      "path": "skill/website-studio/references/workflows.md",
+      "sha256": "22277f138129105b4c9769f670e9ccd42caa7f900dea43794d8945ba92d98bc8"
+    },
+    {
+      "path": "tests/test_apple_design.py",
+      "sha256": "f65ab85c75c88fd4ef58e62b00eec16f4ff771d7ca93c70dd25263dd3a4f55fa"
+    },
+    {
+      "path": "tests/test_upstreams.py",
+      "sha256": "2eecc7149f37aea9906e69c21b34a4bef3cb7944ce011ee16c2e41a8f2749f89"
+    }
+  ],
+  "adaptations": [
+    "platform-neutral coordinator/integration/maintenance references",
+    "workflow reference retained byte-identical at export",
+    "helper reused with installed-store mutation rejection after inert argument handling",
+    "updater tests retain behavior; helper and coordinator paths relocated; distribution checks added",
+    "one active snapshot, previous null; no historical/project/profile/scheduler copy"
+  ],
+  "scope": "Private skills-only export, not existing host installation. No MCP server, hooks, automatic updater or bundled runtime libraries."
+}

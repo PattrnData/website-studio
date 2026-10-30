@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "website-studio",
+  "version": "1.0.0",
+  "description": "Create, analyse, refine and redesign websites with selective pinned design references and evidence-led verification.",
+  "author": {"name": "Pattrn Data"},
+  "repository": "https://github.com/PattrnData/website-studio",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["website", "design", "accessibility", "audit"]
+}

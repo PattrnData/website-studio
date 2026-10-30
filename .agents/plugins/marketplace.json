@@ -1,0 +1,12 @@
+{
+  "name": "pattrndata-private",
+  "interface": {"displayName": "Pattrn Data — Private"},
+  "plugins": [
+    {
+      "name": "website-studio",
+      "source": {"source": "local", "path": "./plugins/website-studio"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+      "category": "Productivity"
+    }
+  ]
+}
